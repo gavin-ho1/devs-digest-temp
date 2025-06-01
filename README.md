@@ -1,2 +1,1 @@
-# devs-digest-temp
-Hotchkiss Dev's Digest Writeup Template
+#Hotchkiss Dev's Digest Writeup Template
